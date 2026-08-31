@@ -1,0 +1,47 @@
+Case 2: Conflict over green card
+Scenario: Engineer is saying the art is less valuable to the artist.
+
+DESC:
+	1. Analyse situation
+	2. how you feel about it
+	3. say what you would like to happen
+	4. elaborate on the consequences.
+
+SSC: 
+	1. Is stopping a behaviour your doing
+	2. start doing a behaviour 
+	3. continue doing a behaviour.
+
+Roleplay:
+Receiver: Your art is worth nothing unlike my code, so I deserve the card more!
+
+G: SSC
+Hey, I noticed you undervalued the artists work.
+Could you stop doing that and value it atleast a bit?
+Other than that you are doing a good job on your side of the project!
+
+G: DESC
+Hey, I'm noticing you aren't appreciating the work the artist put into this project.
+This hurts their feelings, which hurts the team spirit.
+I'd like you to show more appreciation for their work,
+so we can create a productive and encouraging work environment
+
+
+
+SCC:
+Engineer should stop undervalueing the artist contributions.
+Start appreciating others work more.
+Continue doing a good job towards the engineers side.
+
+PRO: Actions are clear.
+CON: Doesnt highlight the WHY.
+
+
+DESC:
+Engineer doesnt believe artist deserves the green card and undervalues them using statements.
+This can hurt the teamwork by hurting eachothers feelings.
+Engineer should start valueing peoples work more.
+Teamwork can go up and keep us more motivated.
+
+PRO: WHY is clear.
+CON: Doesnt highlight the HOW.
