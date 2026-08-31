@@ -1,0 +1,91 @@
+W: In this interview i have 10 prepared questions, we'll probably do a bit more then that. Why did you choose this study? 
+R: What do you specifically want to know?, Why I chose this study? You wanna know how I got to it?
+
+W: How did you find it? Why did you choose it? That sort of things.
+R: I stumbled onto CMGT by chance, and i went to an open day. Because they also had a open day for HBO ICT on the same day, which also was at SAXION.
+Then i went to both open days, and i found CMGT far more interesting, so i went to a studentday for both. I followed along for a full day and CMGT just felt better way for me to learn for what I wanted to learn. So thats why I chose CMGT.
+
+W: So what did you find more interesting in CMGT then HBO ICT?
+R: What I found more interesting in CMGT, is the way we were thaught. With HBO ICT it was a lot more like program this, program that. With CMGT it was a lot more like program this'ish.
+for example you have to make a racinggame, and you have to create selectable cars which you can spawn inside the game. Then you can think "Oh yeah I could create a database where i can store all my cars". And with HBO ICT it was "Make a database for cars". That was the assigment and I was like "Yeah, No"
+
+W: Yeah so you wanted more freedom in your tasks.
+R: Yeah I also gave me initiative to discover things myself. Instead of being told this is how what you should be doing. So if I found some other way to do it, it might be better it might be worse. I could do it in atleast a different way.
+
+W: So you said about databases and such so your in the programming tract right?
+R: Yes im inside the engineering tract.
+
+W: So why did you choose that specific route?
+R: I really like writing code, I really like to doing it. I did it from quite a early age but that was not really coding. I just like doing logic puzzles you create while coding. You know what you want it to do, its just how you want it to do it. And i just really enjoy that part. But ofcourse designing and creating art is also fun.
+
+W: And trying to fix the problems you made yourself.
+R: Yeah thats also a part of engineering yeah. We just dont talk about it. If that ever happens.
+W: its always first try.
+R: If we made a mistake its never the engineers fault.
+
+W: Exactly. So if you wouldve done something different then engineer. What would have that been?
+R: I think i wouldve been designer since my artskills arent on par to being an artist.
+
+W: In programming, what class was the hardest to do?
+R: The class i found hardest to do was 2nd year, I think it was shader programming in C++. The only reason i found it hard was bc it was in C++.
+
+W: Ok so primarily we have done C# right, and you have done other languages?
+R: I know several by now. I know a bit of C++ ofcourse as mentioned. I know Kotlin, java, CSS, HTML, Springbooth, C#. I know a lot of different languages by now but that is also part of doing an internship which is learning a lot of new languages.
+
+W: During the years you are at CMGT. How did your workload change?
+R: In the first year it was quite doable since i already had a basic understanding of code. I had the most important skill an engineer could have and that is understanding how to write code. or atleast a basic premise of that is sufficient for an engineer. Because coding is not only knowing the words. its knowing on why to use to words and what way to use the words. and also be able to read code which is also a very important skill. Which means why something does something. And i had that skill in the first year which helped me a lot. Which a lot of the things we learned I already slightly knew.
+The 2nd year was slightly harder because there were some courses which I didnt understand stuff about yet. So it was harder to complete and do. I would say the workload is sufficient/enough/good and high enough.
+
+
+W: With those workload changes and such, what subjects became more important to you? 
+R: Well all the subjects were equally important. Although in the 2nd year if there was a course i would drop each time or if there was a course i would put less effort in. I would say PBP because for the other courses you have a set goal. And for PBP you could always scale it down slightly if needed.
+
+W: Ok, so you could do less with that and still have a good grade.
+R: Yes basically. Because you could set your own goal while the rest has minimal requirements.
+
+W: Alright, so with all the subjects and going thru it. Did you use any tools to help you with schoolwork?
+R: In what sense?
+W: Like in... Do you have core skills?
+R: I never had core skills no.
+W: Letme think.
+R: You mean like Ai or what type of tools you use?
+W: Like ChatGPT or planning tools. That sort of things.
+R: The tools i used most were JRA and.. What was the other called? Atleast some planning tools for projects to map out what work still needed to be done. GitHub ofcourse to store your code, write code, share code. I did use chatgpt at some points. When ive been stuck on a problem for too long. But even then most of the time it didnt even help at all. So i still had to fix it myself. But yeah the most thing i do I did on my own. Or thru teachers.
+
+
+W: Ok, so the bare miminum sort of things. Which also helped in groups and such.
+R: Yes, thats what I would say. Which is the most important tools i use like planning tools and GitHub.
+
+W: If you were still in first year. What would you have wished to know before going to school?
+R: What i wouldve liked to know during my first year is that having fun. Is more important than having a good grade. Long story short. During my first project, I didnt have fun. Didnt have a good grade. But i did put in a lot of effort. So i wanted a good grade. And after the first project I decided that me and my team are just gonna have fun. Dont care, if we get a 6 we get a 6, if we get a 8 we get a 8, we get a 10 we get a 10. I dont care, we are just gonna have fun and if we are having fun, the game is gonna be fun. Which is actually true. if you have fun and enjoy creating the thing your making. A good grade will just follow.
+
+W: Yes, thats a good way to make games to be fair. You dont want to make a game you despise.
+R: If you despise the game your making others will despise what you are making.
+
+W: Since your in a internship and ill be going into one aswell in the 3rd year. Do you have any tips in how to get into one?
+R: Im going to give you very good advice which is a slight cheatcode. If you see a company where you want to do an internship at. Go onto LinkedIn and find employees who work at that company. So you find a employee which you think would be a good internship coach for you inside the company. So someone who could be your internship coach. So for example if your an engineer. You find a senior software engineer or a senior hardware engineer. Or something alike. And you message that person instead of messaging the company. The company almost never responds. Because it goes thru HR and they ignore you. And if you message the person then they are gonna speak for you and they cant ignore that employee. So messaging people gives you a higher chance to land an internship then messaging the company. Thats also how i got into my internship actually. I messaged the person instead of the company.
+
+W: Ok, so its also better to find a senior engineer instead of lets say a junior i presume. 
+R: Yea, its better to find a senior person since they are longer at the company, they are trusted more so your far more likely accepted if they go "Hey i found an intern" then if a junior goes like that. 
+
+W: So its better to go from the inside then the outside.
+R: Yes exactly.
+
+W: I have one last question. Do you have any tips for first years?
+R: Any specific category you want some?
+W: Lets say engineers since im doing that and part of art and if you have any tips for those.
+R: My tips for engineers is, play around a lot. Have fun. Do a lot of things. More is Always better in terms of code. More you use the language the more you know it. So create dumb silly games. Weird things, create anything you want. And learn from it.
+
+W: Ok so a bunch of projects sitting everywhere.
+R: Yea, it doesnt have to be a bunch of projects. It could be a big project. You could do a lot of things inside a different project. It can be just a piece of code you want to try out. It doesnt have to be a project or game you want to finish. Just CREATE.
+
+W: Creation, creation, repetition.
+R: Not even repetition. Just creation. Create, create a lot.
+
+W: I assume repetition is just coding in that language.
+R: Yea, learn the language. And learn and understand your code. Understand what you are writing and why you are writing it.
+
+W: I do know of a person or company that did a lot of weird games and then there was just one super popular one that everyone played.
+R: Tea quantatie and quality, in the end succes is a choice.
+
+W: I dont really have any more questions. Thx for the answers.
