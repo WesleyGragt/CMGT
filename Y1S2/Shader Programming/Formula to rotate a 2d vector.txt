@@ -1,0 +1,33 @@
+Formula to rotate 2d Vector
+a = angle
+angle = ATAN2(y/x)
+Vector2 = [x cos a - y sin a, x sin a + y cos a]
+------------------------------------------------------------------------------------
+Dot product =
+Dot product notation = v * w
+w = vector with length 1
+
+formula v * w = (Vx * Wx + Vy * Wy (+ Vz * Wz))
+
+To get angle V * W = |v|*|w| cos a <- acos(|v|*|w|) = angle
+a = angle between v and w
+|v| = length of vector
+
+angle = acos (v * w / (|v|*|w|))
+
+Way to figure out if its perpendicular = dot product:
+v * w = 0 = perpendicular
+v * w = 1 = parralel
+-----------------------------------------------------------------------------------
+
+-----------------------------------------------------------------------------------
+Projection:
+Calculate Distance:
+Get a difference vector v = point on line towards point p
+Get the normal vector n from the line W = (-Wy, Wx) < Makes it perpendicular
+Distance calculation = v * n (dot product of normal and difference vector)
+p = w(w*v) = length of vector on line w
+-----------------------------------------------------------------------------------
+Euler rotation order = Z > X > Y
+
+To get outline shader = object enlarged behind. Cull Front Geometry-1. Test ZTest ZWrite.
